@@ -9,7 +9,10 @@ cd /usr/local/vesta/data/templates/web/apache2
 wget https://raw.githubusercontent.com/plutocrat/vestacp-nextcloud-template/master/nextcloud.tpl
 wget https://raw.githubusercontent.com/plutocrat/vestacp-nextcloud-template/master/nextcloud.stpl
 ```
-Make sure to enable the Apache headers module using a2enmod headers or else Apache will not start.
+After That Make sure 
+
+Make sure to enable the Apache headers module using a2enmod headers or else Apache will not start
+
 
 Then select them from the Control Panel > Domains > yourdomainname.com > Templates
 
